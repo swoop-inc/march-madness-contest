@@ -1,0 +1,254 @@
+bookmaker_key,name,price
+betonlineag,Duke Blue Devils,4
+betonlineag,Auburn Tigers,4.75
+betonlineag,Florida Gators,8
+betonlineag,Houston Cougars,9
+betonlineag,Alabama Crimson Tide,12
+betonlineag,Tennessee Volunteers,19
+betonlineag,Michigan St Spartans,21
+betonlineag,St. John's Red Storm,21
+betonlineag,Iowa State Cyclones,26
+betonlineag,Texas Tech Red Raiders,34
+betonlineag,Kentucky Wildcats,41
+betonlineag,Maryland Terrapins,41
+betonlineag,Texas A&M Aggies,41
+betonlineag,Arizona Wildcats,51
+betonlineag,Gonzaga Bulldogs,51
+betonlineag,UConn Huskies,61
+betonlineag,Illinois Fighting Illini,61
+betonlineag,Wisconsin Badgers,61
+betonlineag,Kansas Jayhawks,67
+betonlineag,BYU Cougars,67
+betonlineag,Missouri Tigers,67
+betonlineag,Clemson Tigers,67
+betonlineag,Purdue Boilermakers,81
+betonlineag,Oregon Ducks,81
+betonlineag,Louisville Cardinals,81
+betonlineag,Ole Miss Rebels,81
+betonlineag,Saint Mary's Gaels,101
+betonlineag,UCLA Bruins,101
+betonlineag,Memphis Tigers,101
+betonlineag,Creighton Bluejays,126
+betonlineag,Michigan Wolverines,126
+betonlineag,Vanderbilt Commodores,126
+betonlineag,Baylor Bears,151
+betonlineag,Arkansas Razorbacks,151
+betonlineag,Marquette Golden Eagles,151
+betonlineag,Mississippi St Bulldogs,151
+betonlineag,Georgia Bulldogs,151
+betonlineag,VCU Rams,201
+betonlineag,Indiana Hoosiers,251
+betonlineag,UC San Diego Tritons,251
+betonlineag,Texas Longhorns,301
+betonlineag,Ohio State Buckeyes,301
+betonlineag,San Diego St Aztecs,301
+betonlineag,Oklahoma Sooners,301
+betonlineag,New Mexico Lobos,301
+betonlineag,Drake Bulldogs,301
+betonlineag,North Carolina Tar Heels,501
+betonlineag,Villanova Wildcats,501
+betonlineag,Xavier Musketeers,501
+betonlineag,West Virginia Mountaineers,501
+betonlineag,Boise State Broncos,501
+betonlineag,SMU Mustangs,501
+betonlineag,Colorado St Rams,501
+betonlineag,Utah State Aggies,501
+betonlineag,Lipscomb Bisons,501
+betonlineag,High Point Panthers,501
+betonlineag,SIU-Edwardsville Cougars,501
+betonlineag,Omaha Mavericks,501
+betonlineag,George Mason Patriots,751
+bovada,Duke Blue Devils,3.9
+bovada,Auburn Tigers,4.5
+bovada,Florida Gators,8
+bovada,Houston Cougars,8.5
+bovada,Alabama Crimson Tide,11
+bovada,Tennessee Volunteers,17
+bovada,St. John's Red Storm,21
+bovada,Michigan St Spartans,21
+bovada,Iowa State Cyclones,31
+bovada,Texas Tech Red Raiders,31
+bovada,Texas A&M Aggies,41
+bovada,Kentucky Wildcats,41
+bovada,Maryland Terrapins,41
+bovada,Arizona Wildcats,51
+bovada,Wisconsin Badgers,51
+bovada,Gonzaga Bulldogs,51
+bovada,UConn Huskies,56
+bovada,Missouri Tigers,66
+bovada,Clemson Tigers,66
+bovada,BYU Cougars,66
+bovada,Kansas Jayhawks,66
+bovada,Purdue Boilermakers,81
+bovada,Illinois Fighting Illini,81
+bovada,Oregon Ducks,81
+bovada,Ole Miss Rebels,91
+bovada,UCLA Bruins,101
+bovada,Louisville Cardinals,101
+bovada,Saint Mary's Gaels,101
+bovada,Memphis Tigers,101
+bovada,Creighton Bluejays,126
+bovada,Michigan Wolverines,151
+bovada,Marquette Golden Eagles,151
+bovada,Mississippi St Bulldogs,151
+bovada,Baylor Bears,151
+bovada,Vanderbilt Commodores,151
+betmgm,Duke Blue Devils,4.2
+betmgm,Auburn Tigers,4.5
+betmgm,Florida Gators,7
+betmgm,Houston Cougars,9
+betmgm,Alabama Crimson Tide,13
+betmgm,Tennessee Volunteers,16
+betmgm,Michigan St Spartans,23
+betmgm,Iowa State Cyclones,26
+betmgm,St. John's Red Storm,26
+betmgm,Kentucky Wildcats,36
+betmgm,Texas Tech Red Raiders,41
+betmgm,Kansas Jayhawks,51
+betmgm,Arizona Wildcats,51
+betmgm,Gonzaga Bulldogs,51
+betmgm,Maryland Terrapins,51
+betmgm,UConn Huskies,61
+betmgm,Clemson Tigers,61
+betmgm,Wisconsin Badgers,67
+betmgm,BYU Cougars,67
+betmgm,Texas A&M Aggies,67
+betmgm,Missouri Tigers,67
+betmgm,Purdue Boilermakers,81
+betmgm,Illinois Fighting Illini,81
+betmgm,Marquette Golden Eagles,101
+betmgm,Creighton Bluejays,101
+betmgm,Saint Mary's Gaels,101
+betmgm,Mississippi St Bulldogs,101
+betmgm,UCLA Bruins,101
+betmgm,Michigan Wolverines,101
+betmgm,Ole Miss Rebels,101
+betmgm,Louisville Cardinals,101
+betmgm,Baylor Bears,151
+betmgm,Oregon Ducks,151
+betmgm,Memphis Tigers,151
+betmgm,New Mexico Lobos,201
+betmgm,Vanderbilt Commodores,201
+betmgm,Arkansas Razorbacks,251
+betmgm,VCU Rams,251
+betmgm,Indiana Hoosiers,301
+betmgm,Georgia Bulldogs,301
+betmgm,Texas Longhorns,351
+betmgm,Xavier Musketeers,351
+betmgm,Utah State Aggies,351
+betmgm,Oklahoma Sooners,351
+betmgm,North Carolina Tar Heels,501
+betmgm,Villanova Wildcats,501
+betmgm,San Diego St Aztecs,501
+betmgm,Ohio State Buckeyes,501
+betmgm,Wake Forest Demon Deacons,501
+betmgm,Boise State Broncos,501
+betmgm,SMU Mustangs,501
+betmgm,Drake Bulldogs,501
+betmgm,UC San Diego Tritons,501
+betmgm,USC Trojans,1001
+betmgm,Washington Huskies,1001
+betmgm,Penn State Nittany Lions,1001
+betmgm,Colorado St Rams,1001
+betmgm,Stanford Cardinal,1001
+betmgm,Dayton Flyers,1001
+betmgm,Grand Canyon Antelopes,1001
+betmgm,McNeese Cowboys,1001
+betmgm,San Francisco Dons,1001
+betmgm,UC Irvine Anteaters,1001
+betmgm,Yale Bulldogs,1001
+betmgm,Liberty Flames,1001
+betmgm,Santa Clara Broncos,1001
+betmgm,George Mason Patriots,1001
+betmgm,North Texas Mean Green,1001
+betmgm,Troy Trojans,1001
+betmgm,Wofford Terriers,1001
+betmgm,St. Francis (PA) Red Flash,1001
+betmgm,Robert Morris Colonials,1001
+betmgm,UNC Wilmington Seahawks,1001
+betmgm,SIU-Edwardsville Cougars,1001
+betmgm,High Point Panthers,1001
+betmgm,Lipscomb Bisons,1001
+betmgm,Omaha Mavericks,1001
+betmgm,American Eagles,1001
+betmgm,Montana Grizzlies,1001
+betmgm,Miami Hurricanes,2001
+betmgm,Colorado Buffaloes,2001
+betmgm,Washington St Cougars,2001
+betmgm,Northwestern Wildcats,2001
+betmgm,Iowa Hawkeyes,2001
+betmgm,NC State Wolfpack,2001
+betmgm,Georgia Tech Yellow Jackets,2001
+betmgm,Butler Bulldogs,2001
+betmgm,DePaul Blue Demons,2001
+betmgm,Boston College Eagles,2001
+betmgm,Oregon St Beavers,2001
+fanduel,Duke Blue Devils,4.3
+fanduel,Auburn Tigers,4.8
+fanduel,Florida Gators,8.5
+fanduel,Houston Cougars,9.5
+fanduel,Alabama Crimson Tide,12
+fanduel,Tennessee Volunteers,19
+fanduel,St. John's Red Storm,21
+fanduel,Michigan St Spartans,21
+fanduel,Iowa State Cyclones,26
+fanduel,Texas Tech Red Raiders,31
+fanduel,Texas A&M Aggies,41
+fanduel,Maryland Terrapins,41
+fanduel,Kentucky Wildcats,41
+fanduel,Gonzaga Bulldogs,41
+fanduel,Arizona Wildcats,51
+fanduel,Missouri Tigers,66
+fanduel,Clemson Tigers,66
+fanduel,Kansas Jayhawks,66
+fanduel,Wisconsin Badgers,66
+fanduel,BYU Cougars,66
+fanduel,Illinois Fighting Illini,66
+fanduel,Purdue Boilermakers,81
+fanduel,UConn Huskies,101
+fanduel,Oregon Ducks,101
+fanduel,Ole Miss Rebels,101
+fanduel,Louisville Cardinals,101
+fanduel,Saint Mary's Gaels,101
+fanduel,Memphis Tigers,101
+fanduel,UCLA Bruins,101
+fanduel,Creighton Bluejays,121
+fanduel,Vanderbilt Commodores,151
+fanduel,Arkansas Razorbacks,151
+fanduel,Baylor Bears,151
+fanduel,Georgia Bulldogs,151
+fanduel,Marquette Golden Eagles,151
+fanduel,Michigan Wolverines,151
+fanduel,Mississippi St Bulldogs,151
+fanduel,VCU Rams,201
+fanduel,Oklahoma Sooners,251
+fanduel,Indiana Hoosiers,251
+fanduel,Texas Longhorns,251
+fanduel,UC San Diego Tritons,251
+fanduel,New Mexico Lobos,301
+fanduel,San Diego St Aztecs,301
+fanduel,Drake Bulldogs,301
+fanduel,Colorado St Rams,501
+fanduel,Ohio State Buckeyes,501
+fanduel,McNeese Cowboys,501
+fanduel,West Virginia Mountaineers,501
+fanduel,North Carolina Tar Heels,501
+fanduel,Xavier Musketeers,501
+fanduel,Utah State Aggies,501
+fanduel,Dayton Flyers,1001
+fanduel,Grand Canyon Antelopes,1001
+fanduel,Yale Bulldogs,1001
+fanduel,Wake Forest Demon Deacons,1001
+fanduel,UC Irvine Anteaters,1001
+fanduel,Boise State Broncos,1001
+fanduel,Lipscomb Bisons,1001
+fanduel,SIU-Edwardsville Cougars,1001
+fanduel,Omaha Mavericks,1001
+fanduel,High Point Panthers,1001
+fanduel,Wofford Terriers,1001
+fanduel,Troy Trojans,1001
+fanduel,St. Francis (PA) Red Flash,1001
+fanduel,Robert Morris Colonials,1001
+fanduel,UNC Wilmington Seahawks,1001
+fanduel,American Eagles,1001
+fanduel,Montana Grizzlies,1001
